@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi there! I'm Felipe Castaño, a passionate Full Stack Developer 🚀
+I love building creative 💡, efficient ⚙️, and high-impact 📈 solutions.
 
-<!--
-**felipe1329/felipe1329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 Frontend: React ⚛️ | Next.js 🌐 | TailwindCSS 🎨
+🔹 Backend: Node.js 🛠️ | Express 🚀 | MongoDB 🍃 | SQL 🗄️
+🔹 Others: Git 🧩 | REST APIs 🔗 | Shopify Development 🛍️
 
-Here are some ideas to get you started:
+💬 Always open to collaborating on exciting projects and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Let's connect and build something amazing together!
+
+___________________________________________________________________________________
+
+👋 ¡Hola! Soy Felipe Castaño, un apasionado desarrollador Full Stack 🚀
+Me encanta construir soluciones creativas 💡, eficientes ⚙️ y de alto impacto 📈.
+
+🔹 Frontend: React ⚛️ | Next.js 🌐 | TailwindCSS 🎨
+🔹 Backend: Node.js 🛠️ | Express 🚀 | MongoDB 🍃 | SQL 🗄️
+🔹 Otros: Git 🧩 | APIs REST 🔗 | Shopify Development 🛍️
+
+💬 Siempre estoy abierto a colaborar en proyectos interesantes y aprender nuevas tecnologías.
+
+🔗 ¡Conectemos y creemos algo increíble juntos!
